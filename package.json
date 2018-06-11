@@ -1,0 +1,11 @@
+{
+  "name": "nbc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.3.2",
+    "ts-node": "^6.1.0",
+    "wish": "^1.0.1"
+  }
+}
